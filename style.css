@@ -530,7 +530,7 @@ footer{
 .bottom-footer{
     font-size: 14px;
     margin-top: 10px;
-    color: #fff;
+    color: white;
 }
 /* ----- MEDIA QUERY == 1024px / RESPONSIVE ----- */
 @media only screen and (max-width: 1024px){
